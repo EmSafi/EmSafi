@@ -1,4 +1,4 @@
-# 🧪 Emil Safin | Fullstack QA Engineer
+# 🧪 Эмиль Сафин | Fullstack QA Engineer
 
 **QA Lead с 4+ годами опыта** | Kotlin • Playwright • AI в тестировании  
 *Повышаю эффективность QA процессов через автоматизацию и кастомные инструменты*
@@ -7,34 +7,40 @@
 
 ## 🚀 Ключевые компетенции
 
-```kotlin
-class Profile {
-    val languages = listOf("Kotlin", "Python", "SQL", "JavaScript")
-    val testing = listOf("Playwright", "RestAssured", "TestNG", "JUnit", "Allure")
-    val tools = listOf("Jenkins", "Docker", "Git", "Jira", "Postman")
-    val processes = listOf("Shift-Left", "QA Leadership", "AI Integration")
-}
+- **Языки программирования**: Kotlin, Python, SQL, JavaScript
+- **Тестирование**: Playwright, RestAssured, TestNG, JUnit, Allure
+- **Инструменты**: Jenkins, Docker, Git, Jira, Postman
+- **Процессы**: Shift-Left, QA Leadership, AI Integration
 
-💡 Мои проекты
-🎯 Автоматизация тестирования
-https://img.shields.io/badge/%F0%9F%94%97-EmSafi/api__tests__kt-blue?style=flat-square
-Фреймворк автотестов на Kotlin с поддержкой REST API и веб-тестирования
+## 💡 Мои проекты
 
-📊 Кастомные инструменты
-https://img.shields.io/badge/%F0%9F%93%88-Metrics_Collector-orange?style=flat-square
-Сбор и визуализация метрик тестирования из Jira (Kotlin + JS)
+### 🎯 Автоматизация тестирования
+[![API Tests KT](https://img.shields.io/badge/🔗-EmSafi/api__tests__kt-blue?style=flat-square)](https://github.com/EmSafi/api_tests_kt)  
+*Фреймворк автотестов на Kotlin с поддержкой REST API и веб-тестирования*
 
-https://img.shields.io/badge/%F0%9F%94%90-QA_Cert_Tracker-green?style=flat-square
-Мониторинг сроков действия тестовых сертификатов с алертами
+### 📊 Кастомные инструменты
+[![QA Metrics](https://img.shields.io/badge/📈-Metrics_Collector-orange?style=flat-square)](https://github.com/EmSafi/qa_metrics_collector)  
+*Сбор и визуализация метрик тестирования из Jira (Kotlin + JS)*
 
-🏆 Достижения
-↑ Повышение эффективности: Сократил трудозатраты на 30% через кастомные инструменты
+[![Cert Tracker](https://img.shields.io/badge/🔐-QA_Cert_Tracker-green?style=flat-square)](https://github.com/EmSafi/qa_cert_tracker)  
+*Мониторинг сроков действия тестовых сертификатов с алертами*
 
-👥 Лидерство: Вырос от Junior до Head of QA (команда 7 человек)
+## 🏆 Достижения
 
-🤖 Инновации: Внедрил ИИ для генерации и поддержки автотестов
+- **↑ Повышение эффективности**: Сократил трудозатраты на 30% через кастомные инструменты
+- **👥 Лидерство**: Вырос от Junior до Head of QA (команда 7 человек)
+- **🤖 Инновации**: Внедрил ИИ для генерации и поддержки автотестов
+- **🛡️ Preemptive Testing**: Внедрил Shift-Left подход в тестировании документации
 
-🛡️ Preemptive Testing: Внедрил Shift-Left подход в тестировании документации
+## 📈 Статистика
 
-📈 Статистика
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EmSafi&show_icons=true&theme=default" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmSafi&layout=compact" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmSafi&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmSafi&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+**📫 Как связаться**: [LinkedIn](https://linkedin.com/in/example) | [Telegram](https://t.me/example)
+
+*Открыт к коллаборации в проектах связанных с автоматизацией тестирования и QA инструментами*
