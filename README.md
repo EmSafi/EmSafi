@@ -1,8 +1,16 @@
-<div id="header" align="center"> 
-    <h1>Hi there, I'm Emil</h1>
-    <h3>Fullstack QA Engineer</h3>
-</div>
+# 🧪 Emil Safin | Fullstack QA Engineer
 
-<a href="https://t.me/Safemi">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
+**QA Lead с 4+ годами опыта** | Kotlin • Playwright • AI в тестировании  
+*Повышаю эффективность QA процессов через автоматизацию и кастомные инструменты*
+
+---
+
+## 🚀 Ключевые компетенции
+
+```kotlin
+class Profile {
+    val languages = listOf("Kotlin", "Python", "SQL", "JavaScript")
+    val testing = listOf("Playwright", "RestAssured", "TestNG", "JUnit", "Allure")
+    val tools = listOf("Jenkins", "Docker", "Git", "Jira", "Postman")
+    val processes = listOf("Shift-Left", "QA Leadership", "AI Integration")
+}
