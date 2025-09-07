@@ -2,6 +2,7 @@
 
 **QA Lead с 5 годами опыта** | Kotlin • Playwright • AI в тестировании  
 *Повышаю эффективность QA процессов через автоматизацию и кастомные инструменты*
+
 **Resume:** [Emil_Safin](https://github.com/EmSafi/EmSafi/blob/main/Emil%20Safin%20CV.pdf)   
 
 ---
