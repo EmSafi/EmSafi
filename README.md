@@ -11,7 +11,7 @@
 
 - **Языки программирования**: Kotlin, Python, SQL, JavaScript
 - **Тестирование**: Playwright, RestAssured, TestNG, JUnit, Allure
-- **Инструменты**: Jenkins, Docker, Git, Jira, Postman
+- **Инструменты**: Jenkins, Docker, Git, Jira, Postman, Fiddler, Grafana
 - **Процессы**: Shift-Left, QA Leadership, AI Integration
 
 ## 💡 Мои проекты
