@@ -3,7 +3,7 @@
 **QA Lead with 5 years of experience** | Kotlin/Python • Playwright • AI 
 *I increase the efficiency of QA processes through automation and custom tools*
 
-**Resume:** [Emil_Safin](https://github.com/EmSafi/EmSafi/blob/main/Emil%20Safin%20CV.pdf)   
+**Resume:** [Emil_Safin](Emil_Safin_CV.pdf)   
 
 ---
 
