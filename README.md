@@ -1,6 +1,6 @@
 # 🧪 Emil Safin | Fullstack QA Engineer
 
-**QA Lead with 5 years of experience** | Kotlin/Python • Playwright • AI 
+**QA Lead with 5 years of experience** | Kotlin/Java • Playwright • AI 
 *I increase the efficiency of QA processes through automation and custom tools*
 
 **Resume:** [Emil_Safin](Emil_Safin_CV.pdf)   
@@ -9,7 +9,7 @@
 
 ## 🚀 Key competencies
 
-- **Programming languages**: Kotlin, Python, SQL, JavaScript
+- **Programming languages**: Kotlin/Java, Python, SQL, JavaScript
 - **Testing**: Playwright, RestAssured, TestNG, JUnit, Allure
 - **Tools**: Jenkins, Docker, Git, Jira, Postman, Fiddler, Grafana
 - **Processes**: Shift-Left, QA Leadership, AI Integration
