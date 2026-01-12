@@ -3,8 +3,6 @@
 **QA Lead with 5 years of experience** | Kotlin/Java • Playwright • AI 
 *I increase the efficiency of QA processes through automation and custom tools*
 
-**Resume:** [Emil_Safin](Emil_Safin_CV.pdf)   
-
 ---
 
 ## 🚀 Key competencies
